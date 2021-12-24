@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="dev.codenmore.thegame.gfx.GameCamera" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/gfx/GameCamera.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="183" x="592" y="544"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Audio.AudioPlayer" project="TheGame" file="/TheGame/src/Audio/AudioPlayer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="120" x="815" y="544"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="dev.codenmore.thegame.display.Display" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/display/Display.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="146" x="975" y="544"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="dev.codenmore.thegame.tiles.LogTile" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/tiles/LogTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="133" x="1600" y="544"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="dev.codenmore.thegame.entities.creatures.Player" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/entities/creatures/Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="188" x="915" y="2854"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="dev.codenmore.thegame.gfx.SpriteSheet" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/gfx/SpriteSheet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="183" x="153" y="45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="dev.codenmore.thegame.entities.EntityManager" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/entities/EntityManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="189" x="976" y="1609"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="dev.codenmore.thegame.states.MenuState" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/states/MenuState.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="142" x="976" y="881"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="dev.codenmore.thegame.input.KeyManager" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/input/KeyManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="165" x="1353" y="544"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="dev.codenmore.thegame.entities.statics.StaticEntity" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/entities/statics/StaticEntity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="240" x="426" y="2373"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="dev.codenmore.thegame.Game" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/Game.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="182" x="1161" y="45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="dev.codenmore.thegame.entities.creatures.Creature" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/entities/creatures/Creature.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="188" x="706" y="2373"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="dev.codenmore.thegame.entities.statics.Egg" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/entities/statics/Egg.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="177" x="209" y="2854"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="dev.codenmore.thegame.tiles.Tile" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/tiles/Tile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="161" x="1773" y="45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="dev.codenmore.thegame.Launcher" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/Launcher.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="376" y="45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="dev.codenmore.thegame.states.GameOverState" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/states/GameOverState.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="148" x="1370" y="881"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="dev.codenmore.thegame.tiles.SkyTile" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/tiles/SkyTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="133" x="1773" y="544"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="dev.codenmore.thegame.utils.Utils" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/utils/Utils.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="171" x="529" y="45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="dev.codenmore.thegame.gfx.ImageLoader" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/gfx/ImageLoader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="184" x="740" y="45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="dev.codenmore.thegame.worlds.World" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/worlds/World.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="208" x="1101" y="1074"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="dev.codenmore.thegame.states.State" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/states/State.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="142" x="1161" y="544"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="dev.codenmore.thegame.entities.statics.Cat" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/entities/statics/Cat.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="177" x="426" y="2854"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="dev.codenmore.thegame.entities.Entity" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/entities/Entity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="221" x="673" y="1910"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="dev.codenmore.thegame.states.GameState" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/states/GameState.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="151" x="1158" y="881"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="dev.codenmore.thegame.entities.statics.Smoke" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/entities/statics/Smoke.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="178" x="643" y="2854"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="dev.codenmore.thegame.Handler" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/Handler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="182" x="1207" y="2373"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="dev.codenmore.thegame.gfx.Assets" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/gfx/Assets.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="157" x="964" y="45"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="dev.codenmore.thegame.tiles.FinishTile" project="TheGame" 
+    file="/TheGame/src/dev/codenmore/thegame/tiles/FinishTile.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="133" x="1946" y="544"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="30">    
+    <bendpoint x="1548" y="544"/>    
+    <bendpoint x="1548" y="881"/>    
+    <bendpoint x="1548" y="1074"/>    
+    <bendpoint x="1548" y="1609"/>    
+    <bendpoint x="1548" y="1910"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="31" name="handler"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="34" name="display"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <bendpoint x="1195" y="1609"/>    
+    <bendpoint x="1195" y="1910"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="37" name="handler"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <association id="40">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="41" name="sfx"/>      
+      <multiplicity id="42" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="45">    
+    <bendpoint x="1569" y="1910"/>    
+    <bendpoint x="1569" y="1609"/>    
+    <bendpoint x="1569" y="1074"/>    
+    <bendpoint x="1569" y="881"/>    
+    <bendpoint x="1569" y="544"/>    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="46" name="game"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <bendpoint x="945" y="881"/>    
+    <bendpoint x="945" y="1074"/>    
+    <bendpoint x="945" y="1609"/>    
+    <bendpoint x="945" y="1910"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="49" name="handler"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="51">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="52">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <generalization id="53">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="54">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="55">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="56" name="finishTile"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <bendpoint x="1339" y="881"/>    
+    <bendpoint x="1339" y="1074"/>    
+    <bendpoint x="1339" y="1609"/>    
+    <bendpoint x="1339" y="1910"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="59" name="handler"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="61">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="62">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="63" name="gameCamera"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="66" name="entities"/>      
+      <multiplicity id="67" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="68">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="69">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="70" name="menuState"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="72">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="73" name="currentState"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="75">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="76" name="keyManager"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="79" name="grassTile"/>      
+      <multiplicity id="80" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="81">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="82" name="world"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="84">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="85" name="gameState"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="87">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="88" name="gameoverState"/>      
+      <multiplicity id="89" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="90">    
+    <bendpoint x="1101" y="1910"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="91" name="handler"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="93">    
+    <bendpoint x="924" y="1910"/>    
+    <bendpoint x="924" y="2373"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="94" name="player"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="97" name="entityManager"/>      
+      <multiplicity id="98" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="99">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="100" name="tiles"/>      
+      <multiplicity id="101" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="102">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="103" name="bgMusic"/>      
+      <multiplicity id="104" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="105">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <generalization id="106">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="107">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="108" name="handler"/>      
+      <multiplicity id="109" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="110">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="111" name="rockTile"/>      
+      <multiplicity id="112" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="113">    
+    <bendpoint x="1216" y="1910"/>    
+    <bendpoint x="1216" y="1609"/>    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="114" name="world"/>      
+      <multiplicity id="115" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
